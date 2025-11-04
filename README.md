@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Next JS**
 
-- See my portfolio website [My Bio]([(https://urmil-portfolio.vercel.app/)])
+- See my portfolio website [My Bio](https://urmil-portfolio.vercel.app/)
 
 - 💬 Ask me about **React, Tailwind, JavaScript, etc.**
 
