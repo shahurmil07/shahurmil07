@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Urmil Shah</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on **Event Management Project**
-
 - 🌱 I’m currently learning **Nest JS**
 
 - See my portfolio website [My Bio](https://urmil-portfolio.vercel.app/)
