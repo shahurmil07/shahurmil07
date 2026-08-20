@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Event Management Project**
 
-- 🌱 I’m currently learning **Next JS**
+- 🌱 I’m currently learning **Nest JS**
 
 - See my portfolio website [My Bio](https://urmil-portfolio.vercel.app/)
 
